@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-  <h3>自建服务的折腾者 · <i>Self-hosting tinkerer</i></h3>
+  <h3>万般努力 · <i>Self-hosting tinkerer</i></h3>
   <p>
-    把媒体站、机器人和运维面板一件件手搭起来<br/>
+    创造真正有价值的东西。br/>
     <sub>Building media servers, bots and ops panels one piece at a time</sub>
   </p>
   <p>

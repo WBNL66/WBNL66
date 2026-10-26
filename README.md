@@ -2,10 +2,6 @@
   <img src="./banner.svg" width="100%" alt="WBNL66 — 万般努力" />
 </div>
 
-<!--
-  以下内容全部以 HTML 注释隐藏，主页不渲染；
-  源码保留，需要展示时把外层注释去掉即可。
-
 <div align="center">
   <h3>自建服务的折腾者 · <i>Self-hosting tinkerer</i></h3>
   <p>
@@ -83,4 +79,3 @@
 <div align="center">
   <sub><code>$ uptime</code> — 保持折腾 · keep tinkering</sub>
 </div>
--->

@@ -6,7 +6,7 @@
   <h3>万般努力 · <i>Self-hosting tinkerer</i></h3>
   <p>
     创造真正有价值的东西。<br/>
-    <sub>Building media servers, bots and ops panels one piece at a time</sub>
+    <sub>Building things that actually matter.</sub>
   </p>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />

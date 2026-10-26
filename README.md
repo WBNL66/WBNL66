@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.svg" width="100%" alt="WBNL66 — 万般努力" />
+  <img src="./banner.svg?v=2" width="100%" alt="WBNL66 — 万般努力" />
 </div>
 
 <div align="center">

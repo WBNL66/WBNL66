@@ -21,31 +21,6 @@
 
 ---
 
-### 在折腾什么 · What I'm building
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>🎬 EmbyBoss</b><br/>
-      <sub>Telegram 机器人 + 会员中心小程序，管着一个自建 Emby 站：邀请码、签到续期、观影榜、热播榜、在线人数。</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>🧭 ChaPanda 面板</b><br/>
-      <sub>自建媒体站的运维面板：健康巡检、异常告警去抖、IP 拦截看板、多渠道通知聚合。</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>🌐 ChaPanda 官网</b><br/>
-      <sub>深色液态玻璃风格的站点首页，多域名镜像统一体验，移动端优先。</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>🤖 Diga Group Bot</b><br/>
-      <sub>Telegram 群管理机器人：关键词回复、频道跟评、可视化群组设置面板。</sub>
-    </td>
-  </tr>
-</table>
-
 ### 干活习惯 · How I work
 
 - **能自托管就自托管** —— Docker Compose + Nginx + SQLite，少一个外部依赖就少一个故障点。

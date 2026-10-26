@@ -14,8 +14,6 @@
     <img src="https://img.shields.io/badge/Linux-2F2F2F?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
     <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
     <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-    <img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Bot" />
-    <img src="https://img.shields.io/badge/Emby-52B54B?style=flat-square&logo=emby&logoColor=white" alt="Emby" />
   </p>
 </div>
 
